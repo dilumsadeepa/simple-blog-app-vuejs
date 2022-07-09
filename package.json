@@ -1,0 +1,21 @@
+{
+  "name": "blog",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173"
+  },
+  "dependencies": {
+    "@tinymce/tinymce-vue": "^4.0.7",
+    "firebase": "^9.8.3",
+    "tinymce": "^6.0.3",
+    "vue": "^3.2.36",
+    "vue-router": "^4.0.15",
+    "vue3-editor": "^0.1.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.3",
+    "vite": "^2.9.9"
+  }
+}
